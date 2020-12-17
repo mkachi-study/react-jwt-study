@@ -1,5 +1,5 @@
-# react-jwt
-React JWT study project
+# react-jwt FrontEnd
+React JWT frontend study project
 
 ## Run
 
