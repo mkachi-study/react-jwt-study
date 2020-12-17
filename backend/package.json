@@ -1,0 +1,29 @@
+{
+  "name": "react-jwt-study",
+  "version": "1.0.0",
+  "description": "React JWT study project",
+  "author": "MKachi <mkachi@naver.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx src",
+    "lint-fix": "eslint --ext .js,.jsx,.ts,.tsx src --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkachi-study/react-jwt-study.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mkachi-study/react-jwt-study/issues"
+  },
+  "homepage": "https://github.com/mkachi-study/react-jwt-study#readme",
+  "keywords": [
+    "javascript",
+    "express"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
