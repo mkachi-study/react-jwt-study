@@ -1,6 +1,6 @@
-# react-jwt-study BackEnd
+# Backend
 
-React JWT backend study project
+React JWT study project backend
 
 ## Run
 
